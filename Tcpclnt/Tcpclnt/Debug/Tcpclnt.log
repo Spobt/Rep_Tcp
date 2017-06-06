@@ -1,0 +1,5 @@
+﻿  Tcpclnt.cpp
+c:\users\spobt_00\documents\visual studio 2017\projects\tcpclnt\tcpclnt\tcpclnt.cpp(35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+  Tcpclnt.vcxproj -> C:\Users\Spobt_00\documents\visual studio 2017\Projects\Tcpclnt\Debug\Tcpclnt.exe
+  Tcpclnt.vcxproj -> C:\Users\Spobt_00\documents\visual studio 2017\Projects\Tcpclnt\Debug\Tcpclnt.pdb (Partial PDB)
